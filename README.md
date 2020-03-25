@@ -1,5 +1,10 @@
 # ddmmyyyy-frontend
 
+An app for recording 
+- thoughts and notes, personal or professional
+- other daily activities, moods, progress on task and hobbies
+and later analyzing the collected data.
+
 ## Project setup
 ```
 npm install
